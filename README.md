@@ -16,13 +16,13 @@
 <h2>Contact</h2>
   <div>
     <a href="https://github.com/guilhermegomees">
-    <a href="mailto: guicollado1@gmail.com">
+    <a href="mailto: guicollado1@gmail.com" target="_blank">
        <img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1619848155~hmac=c52e6560082e58403121ed057f557f0b" style="max-width:100%;">
     </a>
-    <a href="https://www.linkedin.com/in/guilherme-gomes-3276a41b6" rel="nofollow">
+    <a href="https://www.linkedin.com/in/guilherme-gomes-3276a41b6" rel="nofollow" target="_blank">
        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
     </a>
-    <a href="https://instagram.com/guilhermehgg" rel="nofollow">
+    <a href="https://instagram.com/guilhermehgg" rel="nofollow" target="_blank">
        <img align="center" height="30" width="40" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1619848992~hmac=3a29ac8b824c688068f5b746d245418a" style="max-width:100%;">
     </a>
 </div>

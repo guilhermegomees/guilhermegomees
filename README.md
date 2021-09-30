@@ -29,3 +29,5 @@
     </a>
 </div>
 </div></div></article>
+ 
+ ![Snake animation](https://github.com/guilhermegomees/guilhermegomees/blob/output/github-contribution-grid-snake.svg)

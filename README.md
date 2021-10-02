@@ -1,5 +1,5 @@
  ![guilhermegomees's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermegomees&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomees&layout=compact&theme=tokyonight)](https://github.com/guilhermegomees/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomees&layout=compact&theme=tokyonigh)](https://github.com/guilhermegomees/github-readme-stats)
  
  
 <div>

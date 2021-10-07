@@ -2,20 +2,21 @@
 
 <div align="center">
   <a href="https://github.com/guilhermegomees">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermegomees&show_icons=true&include_all_commits=true&count_private=true&theme=bear"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomees&layout=compact&langs_count=8&theme=bear"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermegomees&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomees&layout=compact&langs_count=8&theme=blueberry"/>
 </div>
+  
+## 🚀 Skills <img align="right" alt="Guilherme-gif" height="150" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47v4i2g71ilt8dyij3i07x67daiq9u3psc0prraed6&rid=giphy.gif&ct=g?width=676&height=676">
 
-## Skills <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="30px">
 <div style="display: inline_block">
-  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
-  <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >
-  <img align="center" alt="Guilherme-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Guilherme-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Guilherme-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Guilherme-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Guilherme-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Guilherme-gif" height="150" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47v4i2g71ilt8dyij3i07x67daiq9u3psc0prraed6&rid=giphy.gif&ct=g?width=676&height=676"
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >
+  <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
 </div>
 
 ##
@@ -32,5 +33,5 @@
          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
       </a>
 </div>
-
+  
  ![Snake animation](https://github.com/guilhermegomees/guilhermegomees/blob/output/github-contribution-grid-snake.svg)

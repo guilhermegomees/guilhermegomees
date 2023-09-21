@@ -1,5 +1,3 @@
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
 <div align="center">
   <a href="https://github.com/guilhermegomees">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermegomees&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry"/>

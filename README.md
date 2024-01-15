@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://github.com/guilhermegomees">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermegomees&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomees&layout=compact&langs_count=8&theme=blueberry"/>
+                           
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermegomees&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomees&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
 ## 🚀 Skills <img align="right" alt="Guilherme-gif" height="150" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47v4i2g71ilt8dyij3i07x67daiq9u3psc0prraed6&rid=giphy.gif&ct=g?width=676&height=676">

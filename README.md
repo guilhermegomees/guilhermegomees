@@ -5,27 +5,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomees&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
-## 🚀 Skills <img align="right" alt="Guilherme-gif" height="150" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47v4i2g71ilt8dyij3i07x67daiq9u3psc0prraed6&rid=giphy.gif&ct=g?width=676&height=676">
+## 🚀 Skills <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=f5f5f5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&logoColor=f5f5f5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=f5f5f5)
+![CSharp](https://img.shields.io/badge/-C%23-40BB12?style=for-the-badge&logo=csharp&logoColor=f5f5f5)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
 ##
 
-<div>
-   <a href="https://github.com/guilhermegomees">
-      <a href="mailto: guicollado1@gmail.com" target="_blank">
-         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-      </a>
-      <a href="https://www.linkedin.com/in/guilhermegomees/" rel="nofollow" target="_blank">
-         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-      </a>
-      <a href="https://instagram.com/guilhermehgg" rel="nofollow" target="_blank">
-         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-      </a>
-</div>
+<p align="left">
+  <a href="mailto: guicollado1@gmail.com" target="_blank" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/guilhermegomees/" target="_blank" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
